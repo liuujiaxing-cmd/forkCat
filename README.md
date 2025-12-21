@@ -230,7 +230,7 @@ Want to improve ForkCat?
 
 - 🎮 **Tamagotchi**: Virtual pets that need care
 - 🐱 **CryptoKitties**: Genetic breeding on blockchain
-- 🌱 **SeedGPT**: AI-powered autonomous growth
+- 🌱 **Seed-GPT**: AI-powered autonomous growth
 
 ## License
 
