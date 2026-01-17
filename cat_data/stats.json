@@ -1,8 +1,8 @@
 {
-  "dna_hash": "4b4dc8eb214ea7dc",
+  "dna_hash": "13f0ff84e748721a",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 12,
+  "mutation_count": 13,
   "rarity_score": 33.33333333333333,
   "parent_id": null,
   "traits": {
@@ -19,7 +19,7 @@
       "rarity": "rare"
     },
     "pattern": {
-      "value": "lightning",
+      "value": "flames",
       "rarity": "rare"
     },
     "background": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-01-16T01:17:16.853042"
+  "last_updated": "2026-01-17T01:13:26.767906"
 }
