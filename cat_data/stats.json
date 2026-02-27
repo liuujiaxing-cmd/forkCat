@@ -1,9 +1,9 @@
 {
-  "dna_hash": "38c770a91d90c3a7",
+  "dna_hash": "adcb92ceb5b17693",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 57,
-  "rarity_score": 46.666666666666664,
+  "mutation_count": 58,
+  "rarity_score": 55.00000000000001,
   "parent_id": null,
   "traits": {
     "body_color": {
@@ -15,8 +15,8 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "halo",
-      "rarity": "rare"
+      "value": "jetpack",
+      "rarity": "legendary"
     },
     "pattern": {
       "value": "cosmic_dust",
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-02-26T01:08:27.699910"
+  "last_updated": "2026-02-27T01:07:53.167623"
 }
