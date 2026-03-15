@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "adcc7a60ea82653d",
-  "mutation_count": 71,
+  "dna_hash": "7fe1a58d185bcf24",
+  "mutation_count": 73,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "8fecf206"
     },
     "face_expression": {
-      "value": "cosmic",
+      "value": "enlightened",
       "rarity": "legendary",
-      "gene_sequence": "5ec4987e"
+      "gene_sequence": "3fc73d5b"
     },
     "accessory": {
       "value": "jetpack",
