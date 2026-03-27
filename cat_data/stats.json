@@ -1,8 +1,8 @@
 {
-  "dna_hash": "bef18a217d13e253",
+  "dna_hash": "8df3310ec6db02d6",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 90,
+  "mutation_count": 91,
   "rarity_score": 56.666666666666664,
   "parent_id": null,
   "traits": {
@@ -23,7 +23,7 @@
       "rarity": "legendary"
     },
     "background": {
-      "value": "city",
+      "value": "mountains",
       "rarity": "uncommon"
     },
     "special": {
@@ -31,5 +31,5 @@
       "rarity": "common"
     }
   },
-  "last_updated": "2026-03-26T01:18:53.493144"
+  "last_updated": "2026-03-27T01:18:16.132787"
 }
