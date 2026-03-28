@@ -1,14 +1,14 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "8df3310ec6db02d6",
-  "mutation_count": 91,
+  "dna_hash": "f334ef19fe4054be",
+  "mutation_count": 94,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
-      "value": "beige",
+      "value": "brown",
       "rarity": "common",
-      "gene_sequence": "8fecf206"
+      "gene_sequence": "d47133ea"
     },
     "face_expression": {
       "value": "enlightened",
@@ -16,9 +16,9 @@
       "gene_sequence": "3fc73d5b"
     },
     "accessory": {
-      "value": "diamond_chain",
+      "value": "jetpack",
       "rarity": "legendary",
-      "gene_sequence": "db9cd265"
+      "gene_sequence": "ec211553"
     },
     "pattern": {
       "value": "aurora",
