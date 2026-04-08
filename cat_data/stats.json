@@ -1,8 +1,8 @@
 {
-  "dna_hash": "26d0b1da72f60ec1",
+  "dna_hash": "bfa05c87a502dfeb",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 101,
+  "mutation_count": 103,
   "rarity_score": 65.0,
   "parent_id": null,
   "traits": {
@@ -15,7 +15,7 @@
       "rarity": "legendary"
     },
     "accessory": {
-      "value": "diamond_chain",
+      "value": "golden_crown",
       "rarity": "legendary"
     },
     "pattern": {
@@ -23,7 +23,7 @@
       "rarity": "legendary"
     },
     "background": {
-      "value": "space",
+      "value": "aurora",
       "rarity": "rare"
     },
     "special": {
@@ -31,5 +31,5 @@
       "rarity": "uncommon"
     }
   },
-  "last_updated": "2026-04-07T01:20:33.889292"
+  "last_updated": "2026-04-08T01:21:31.084929"
 }
