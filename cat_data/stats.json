@@ -1,8 +1,8 @@
 {
-  "dna_hash": "2e15a07f47a1b2e2",
+  "dna_hash": "fe6854a06271b2ed",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 126,
+  "mutation_count": 128,
   "rarity_score": 75.0,
   "parent_id": null,
   "traits": {
@@ -23,13 +23,13 @@
       "rarity": "legendary"
     },
     "background": {
-      "value": "space",
+      "value": "volcano",
       "rarity": "rare"
     },
     "special": {
-      "value": "aura",
+      "value": "particles",
       "rarity": "rare"
     }
   },
-  "last_updated": "2026-05-01T01:58:53.151239"
+  "last_updated": "2026-05-02T01:47:09.237265"
 }
