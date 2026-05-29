@@ -1,8 +1,8 @@
 {
-  "dna_hash": "66ac87e809fbc202",
+  "dna_hash": "dba267cdbcc8f680",
   "generation": 1,
   "age_days": 0,
-  "mutation_count": 166,
+  "mutation_count": 168,
   "rarity_score": 78.33333333333333,
   "parent_id": null,
   "traits": {
@@ -11,7 +11,7 @@
       "rarity": "uncommon"
     },
     "face_expression": {
-      "value": "cosmic",
+      "value": "legendary",
       "rarity": "legendary"
     },
     "accessory": {
@@ -31,5 +31,5 @@
       "rarity": "legendary"
     }
   },
-  "last_updated": "2026-05-28T01:59:01.462599"
+  "last_updated": "2026-05-29T02:05:53.603244"
 }
