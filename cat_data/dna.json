@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "0910b7006958cb0b",
-  "mutation_count": 179,
+  "dna_hash": "b40cda8fe9199a2f",
+  "mutation_count": 180,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "fa2b44cd"
     },
     "accessory": {
-      "value": "laser_eyes",
+      "value": "horns",
       "rarity": "rare",
-      "gene_sequence": "3c1d8885"
+      "gene_sequence": "f9a6847e"
     },
     "pattern": {
       "value": "cosmic_dust",
