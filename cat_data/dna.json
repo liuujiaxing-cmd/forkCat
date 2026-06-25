@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "ee05a56ed72aad22",
-  "mutation_count": 194,
+  "dna_hash": "a72cd609cb9e8bd7",
+  "mutation_count": 196,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "158495e5"
     },
     "face_expression": {
-      "value": "cosmic",
+      "value": "legendary",
       "rarity": "legendary",
-      "gene_sequence": "5ec4987e"
+      "gene_sequence": "fa2b44cd"
     },
     "accessory": {
       "value": "halo",
