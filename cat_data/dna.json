@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "8d07672fb91b1d99",
-  "mutation_count": 201,
+  "dna_hash": "fa34191ac0b57da1",
+  "mutation_count": 203,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "d0bb2449"
     },
     "accessory": {
-      "value": "halo",
-      "rarity": "rare",
-      "gene_sequence": "8e822e38"
+      "value": "golden_crown",
+      "rarity": "legendary",
+      "gene_sequence": "c600024c"
     },
     "pattern": {
       "value": "quantum",
@@ -36,5 +36,5 @@
       "gene_sequence": "18ebc4a5"
     }
   },
-  "rarity_score": 56.666666666666664
+  "rarity_score": 65.0
 }
