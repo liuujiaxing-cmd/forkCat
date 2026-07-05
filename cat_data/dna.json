@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "a3781edb7d9481fc",
-  "mutation_count": 209,
+  "dna_hash": "592e20b4d6495032",
+  "mutation_count": 210,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "0d83b1e8"
     },
     "face_expression": {
-      "value": "enlightened",
+      "value": "cosmic",
       "rarity": "legendary",
-      "gene_sequence": "3fc73d5b"
+      "gene_sequence": "5ec4987e"
     },
     "accessory": {
       "value": "diamond_chain",
