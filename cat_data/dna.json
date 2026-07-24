@@ -1,14 +1,14 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "7773fba89681b1a4",
-  "mutation_count": 228,
+  "dna_hash": "80a9d4e934da5f47",
+  "mutation_count": 230,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
-      "value": "golden",
+      "value": "silver",
       "rarity": "uncommon",
-      "gene_sequence": "158495e5"
+      "gene_sequence": "2066cd78"
     },
     "face_expression": {
       "value": "cosmic",
@@ -16,9 +16,9 @@
       "gene_sequence": "5ec4987e"
     },
     "accessory": {
-      "value": "wings",
+      "value": "jetpack",
       "rarity": "legendary",
-      "gene_sequence": "b6b9711d"
+      "gene_sequence": "ec211553"
     },
     "pattern": {
       "value": "nebula",
