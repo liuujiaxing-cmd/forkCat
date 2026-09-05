@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "c2eb7e7f390f7e16",
-  "mutation_count": 278,
+  "dna_hash": "a085d91f4e0d92c3",
+  "mutation_count": 280,
   "birth_timestamp": 951831,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "d0bb2449"
     },
     "accessory": {
-      "value": "wings",
+      "value": "golden_crown",
       "rarity": "legendary",
-      "gene_sequence": "b6b9711d"
+      "gene_sequence": "c600024c"
     },
     "pattern": {
       "value": "nebula",
@@ -26,9 +26,9 @@
       "gene_sequence": "5aa6e7de"
     },
     "background": {
-      "value": "black_hole",
+      "value": "heaven",
       "rarity": "legendary",
-      "gene_sequence": "f3696e1d"
+      "gene_sequence": "7e04d118"
     },
     "special": {
       "value": "aura",
